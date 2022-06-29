@@ -1,2 +1,2 @@
 # YhatzeeGame
-I am recreating the classic game Yhatzee in
+I am recreating the classic game Yhatzee in Java
