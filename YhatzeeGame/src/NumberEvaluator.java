@@ -9,6 +9,7 @@ public class NumberEvaluator {
     }
 
     int evaluate(ArrayList<Dice> check) {
+        count = 0;
         for (int i = 0; i < check.size(); i++) {
             if (check.get(i).getCurrentValue() == what) {
                 count++;

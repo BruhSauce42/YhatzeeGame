@@ -59,9 +59,8 @@ public class ScoreCard {
         sorter = new DiceOrdering();
     }
 
-    void updateTable(ArrayList<Dice> data, int roundN) {
+    void updateTable(ArrayList<Dice> data) {
         saved = data;
-        round = roundN;
     }
 
     void updatePotentials() {
