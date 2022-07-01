@@ -286,4 +286,56 @@ public class ScoreCard {
         return chance;
     }
 
+    int getPotentialOnes() {
+        return potentialOnes;
+    }
+
+    int getPotentialTwos() {
+        return potentialTwos;
+    }
+
+    int getPotentialThrees() {
+        return potentialThrees;
+    }
+
+    int getPotentialFours() {
+        return potentialFours;
+    }
+
+    int getPotentialFives() {
+        return potentialFives;
+    }
+
+    int getPotentialSixes() {
+        return potentialSixes;
+    }
+
+    int getPotentialThreeKind() {
+        return potentialThreeKind;
+    }
+
+    int getPotentialFourKind() {
+        return potentialFourKind;
+    }
+
+    int getPotentialFullHouse() {
+        return potentialFullHouse;
+    }
+
+    int getPotentialSmallStraight() {
+        return potentialSmallStraight;
+    }
+
+    int getPotentialLargeStraight() {
+        return potentialLargeStraight;
+    }
+
+    int getPotentialYhatzee() {
+        return potentialYhatzee;
+    }
+
+    int getPotentialChance() {
+        return potentialChance;
+    }
+
 }
